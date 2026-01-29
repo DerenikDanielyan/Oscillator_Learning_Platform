@@ -1,0 +1,16 @@
+# KiCad backups / autosaves
+*.bak
+*.bck
+*.tmp
+_autosave-*
+*-cache.lib
+.fp-info-cache
+
+# Outputs / fabrication
+gerbers/
+outputs/
+fabrication/
+
+# OS junk
+.DS_Store
+Thumbs.db
